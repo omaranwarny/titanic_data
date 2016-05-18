@@ -1,2 +1,2 @@
 # titanic_data
-Titanic Analysis
+Titanic Analysis on survival of passengers in different scenarios.
